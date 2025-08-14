@@ -13,41 +13,36 @@
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
 
 
+
   <!-- GitHub -->
 <a href="https://github.com/AhirBhatuJay">
-  <img src="https://img.shields.io/github/followers/AhirBhatuJay?label=Follow%20@AhirBhatuJay&style=social" alt="GitHub follow">
+  <img src="https://img.shields.io/badge/-AhirBhatuJay-181717?style=social&logo=github" alt="GitHub">
 </a>
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/jay-bhatu">
-  <img src="https://img.shields.io/badge/Follow%20@JayBhatu-blue?style=social&logo=linkedin" alt="LinkedIn follow">
+  <img src="https://img.shields.io/badge/-JayBhatu-0A66C2?style=social&logo=linkedin" alt="LinkedIn">
 </a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/AhirBhatuJay">
-  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-1DA1F2?style=social&logo=twitter" alt="Twitter follow">
+  <img src="https://img.shields.io/badge/-AhirBhatuJay-1DA1F2?style=social&logo=twitter" alt="Twitter">
 </a>
 
 <!-- Instagram -->
 <a href="https://instagram.com/ahirbhatujay">
-  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-E4405F?style=social&logo=instagram" alt="Instagram follow">
+  <img src="https://img.shields.io/badge/-AhirBhatuJay-E4405F?style=social&logo=instagram" alt="Instagram">
 </a>
 
 <!-- Facebook -->
 <a href="https://facebook.com/AhirBhatuJay">
-  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-1877F2?style=social&logo=facebook" alt="Facebook follow">
+  <img src="https://img.shields.io/badge/-AhirBhatuJay-1877F2?style=social&logo=facebook" alt="Facebook">
 </a>
 
 <!-- YouTube -->
 <a href="https://youtube.com/@AhirBhatuJay">
-  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-FF0000?style=social&logo=youtube" alt="YouTube follow">
+  <img src="https://img.shields.io/badge/-AhirBhatuJay-FF0000?style=social&logo=youtube" alt="YouTube">
 </a>
-
-<!-- TikTok -->
-<a href="https://www.tiktok.com/@AhirBhatuJay">
-  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-black?style=social&logo=tiktok" alt="TikTok follow">
-</a>
-
 </p>
 
 ---
