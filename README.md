@@ -70,7 +70,7 @@
 
 ### 😂 Random Dev Meme:
 <p align="center">
-  <img src="[https://random-memer.herokuapp.com/](https://v2.programming-memes.repl.co/memes/random)" width="400px"/>
+  <img src="https://v2.programming-memes.repl.co/memes/random" width="400px"/>
 </p>
 
 ---
@@ -86,12 +86,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
----
-
-### ⏳ Coding Stats (WakaTime):
-```txt
-💻 Languages:
-JavaScript     12 hrs ██████████████░░░░░░░
-HTML            3 hrs ███░░░░░░░░░░░░░░░░░
-CSS             2 hrs ██░░░░░░░░░░░░░░░░░░
