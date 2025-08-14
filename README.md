@@ -70,14 +70,14 @@
 
 ### 😂 Random Dev Meme:
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+  <img src="[https://random-memer.herokuapp.com/](https://v2.programming-memes.repl.co/memes/random)" width="400px"/>
 </p>
 
 ---
 
 ### 👀 Visitor Count:
 <p align="center">
-  <img src="https://profile-counter.glitch.me/BhatuJay/count.svg" />
+  <img src="https://hits.sh/github.com/BhatuJay.svg?style=for-the-badge&label=Visitors&color=blue" />
 </p>
 
 ---
