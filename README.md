@@ -77,7 +77,7 @@
 
 ### 👀 Visitor Count:
 <p align="center">
-  <img src="https://profile-counter.glitch.me/jaybhatu/count.svg" />
+  <img src="https://profile-counter.glitch.me/BhatuJay/count.svg" />
 </p>
 
 ---
