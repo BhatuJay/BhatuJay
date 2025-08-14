@@ -61,6 +61,34 @@
 
 ---
 
+### 💡 Quote of the Day:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 😂 Random Dev Meme:
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+</p>
+
+---
+
+### 👀 Visitor Count:
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jaybhatu/count.svg" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
+---
+
 ### ⏳ Coding Stats (WakaTime):
 ```txt
 💻 Languages:
