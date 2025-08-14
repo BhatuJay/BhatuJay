@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&logoColor=white&label=" alt="LinkedIn profile"></a>
   <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
   <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram" alt="Instagram follow"></a>
-  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=white" alt="YouTube subscribe"></a>
+  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" alt="YouTube subscribe"></a>
 </p>
 
 ---
