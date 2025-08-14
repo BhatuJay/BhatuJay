@@ -11,6 +11,43 @@
   <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" alt="Instagram follow"></a>
   <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube" alt="YouTube subscribe"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
+
+
+  <!-- GitHub -->
+<a href="https://github.com/AhirBhatuJay">
+  <img src="https://img.shields.io/github/followers/AhirBhatuJay?label=Follow%20@AhirBhatuJay&style=social" alt="GitHub follow">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/jay-bhatu">
+  <img src="https://img.shields.io/badge/Follow%20@JayBhatu-blue?style=social&logo=linkedin" alt="LinkedIn follow">
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/AhirBhatuJay">
+  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-1DA1F2?style=social&logo=twitter" alt="Twitter follow">
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/ahirbhatujay">
+  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-E4405F?style=social&logo=instagram" alt="Instagram follow">
+</a>
+
+<!-- Facebook -->
+<a href="https://facebook.com/AhirBhatuJay">
+  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-1877F2?style=social&logo=facebook" alt="Facebook follow">
+</a>
+
+<!-- YouTube -->
+<a href="https://youtube.com/@AhirBhatuJay">
+  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-FF0000?style=social&logo=youtube" alt="YouTube follow">
+</a>
+
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@AhirBhatuJay">
+  <img src="https://img.shields.io/badge/Follow%20@AhirBhatuJay-black?style=social&logo=tiktok" alt="TikTok follow">
+</a>
+
 </p>
 
 ---
