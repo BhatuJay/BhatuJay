@@ -12,12 +12,6 @@
   <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/youtube/channel/subscribers/%40bhatujay?style=social
 " alt="YouTube subscribe"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
-
-
-
-  <!-- GitHub -->
-<a href="https://github.com/AhirBhatuJay">
-  <img src="https://img.shields.io/badge/-AhirBhatuJay-181717?style=social&logo=github" alt="GitHub">
 </p>
 
 ---
