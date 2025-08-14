@@ -5,9 +5,9 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="Twitter Follow"></a>
+  <a href="https://github.com/BhatuJay"><img src="https://img.shields.io/github/followers/BhatuJay?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 💫 About Me:
 - 🎓 B.Sc.I.T Graduate from **BKNM University, Junagadh**
-- 🔭 Currently working on **React + Node.js Projects**
+- 🔭 Currently working on **React.js Projects**
 - 🌱 Learning **AI Tools, MERN Stack, Cloud Deployment**
 - 💬 Ask me about **Web Development, APIs, JavaScript**
 - ⚡ Fun fact: *I debug 90% of the time, code 10% of the time!*
@@ -31,33 +31,33 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhatuJay&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhatuJay&theme=radical" height="180em"/>
 </p>
 
 ---
 
 ### 🚀 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhatuJay&layout=compact&theme=radical" height="165em"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BhatuJay&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ### 📈 Activity Graph:
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhatuJay&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🎵 Now Playing:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31r5ycgjj3xobmesb4vnznbno33u)
 
 ---
 
