@@ -70,7 +70,7 @@
 
 ### 😂 Random Dev Meme:
 <p align="center">
-  <img src="https://redd.it/1mpihlf" width="400px"/>
+  <img src="https://meme-api.com/gimme" width="400px"/>
 </p>
 
 ---
