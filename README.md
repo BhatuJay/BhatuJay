@@ -9,36 +9,7 @@
   <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
   <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
   <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" alt="Instagram follow"></a>
-  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/youtube/channel/subscribers/%40bhatujay?style=social
-" alt="YouTube subscribe"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
-
-
-  <!-- GitHub -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" alt="GitHub">
-</a>
-
-<!-- Instagram -->
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-Follow-833AB4?style=social&logo=instagram" alt="Instagram">
-</a>
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn">
-</a>
-
-<!-- Twitter -->
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=social&logo=twitter" alt="Twitter">
-</a>
-
-<!-- YouTube -->
-<a href="https://youtube.com/@YOUR_YOUTUBE_USERNAME">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=youtube" alt="YouTube">
-</a>
-
+  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=youtube" alt="YouTube subscribe"></a>
 </p>
 
 ---
