@@ -6,12 +6,8 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/BhatuJay"><img src="https://img.shields.io/github/followers/BhatuJay?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/BhatuJay"><img src="https://img.shields.io/github/followers/BhatuJay?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn profile"></a>
   <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
-  <a href="https://twitter.com/AhirBhatuJay">
-  <img src="https://img.shields.io/twitter/follow/AhirBhatuJay?label=Follow&style=social" alt="Twitter follow">
-</a>
   <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" alt="Instagram follow"></a>
   <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube" alt="YouTube subscribe"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
