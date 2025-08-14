@@ -43,6 +43,12 @@
 <a href="https://youtube.com/@AhirBhatuJay">
   <img src="https://img.shields.io/badge/-AhirBhatuJay-FF0000?style=social&logo=youtube" alt="YouTube">
 </a>
+
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@AhirBhatuJay">
+  <img src="https://img.shields.io/badge/-AhirBhatuJay-black?style=social&logo=tiktok" alt="TikTok">
+</a>
+
 </p>
 
 ---
