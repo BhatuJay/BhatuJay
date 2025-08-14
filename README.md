@@ -68,18 +68,6 @@
 
 ---
 
-### 😂 Random Dev Meme
-![meme](https://i.redd.it/j6wu6o9ncfv51.gif)
-
----
-
-### 😂 Random Dev Meme:
-<p align="center">
-  <img src="https://meme-api.com/gimme/2" width="400px"/>
-</p>
-
----
-
 ### 👀 Visitor Count:
 <p align="center">
   <img src="https://hits.sh/github.com/BhatuJay.svg?style=for-the-badge&label=Visitors&color=blue" />
