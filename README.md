@@ -9,7 +9,8 @@
   <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
   <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
   <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" alt="Instagram follow"></a>
-  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube" alt="YouTube subscribe"></a>
+  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/youtube/channel/subscribers/%40bhatujay?style=social
+" alt="YouTube subscribe"></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
 
 
@@ -17,38 +18,6 @@
   <!-- GitHub -->
 <a href="https://github.com/AhirBhatuJay">
   <img src="https://img.shields.io/badge/-AhirBhatuJay-181717?style=social&logo=github" alt="GitHub">
-</a>
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/jay-bhatu">
-  <img src="https://img.shields.io/badge/-JayBhatu-0A66C2?style=social&logo=linkedin" alt="LinkedIn">
-</a>
-
-<!-- Twitter -->
-<a href="https://twitter.com/AhirBhatuJay">
-  <img src="https://img.shields.io/badge/-AhirBhatuJay-1DA1F2?style=social&logo=twitter" alt="Twitter">
-</a>
-
-<!-- Instagram -->
-<a href="https://instagram.com/ahirbhatujay">
-  <img src="https://img.shields.io/badge/-AhirBhatuJay-E4405F?style=social&logo=instagram" alt="Instagram">
-</a>
-
-<!-- Facebook -->
-<a href="https://facebook.com/AhirBhatuJay">
-  <img src="https://img.shields.io/badge/-AhirBhatuJay-1877F2?style=social&logo=facebook" alt="Facebook">
-</a>
-
-<!-- YouTube -->
-<a href="https://youtube.com/@AhirBhatuJay">
-  <img src="https://img.shields.io/badge/-AhirBhatuJay-FF0000?style=social&logo=youtube" alt="YouTube">
-</a>
-
-<!-- TikTok -->
-<a href="https://www.tiktok.com/@AhirBhatuJay">
-  <img src="https://img.shields.io/badge/-AhirBhatuJay-black?style=social&logo=tiktok" alt="TikTok">
-</a>
-
 </p>
 
 ---
