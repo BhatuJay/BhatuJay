@@ -5,7 +5,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/BhatuJay"><img src="https://img.shields.io/github/followers/BhatuJay?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/BhatuJay"><img src="https://img.shields.io/github/followers/BhatuJay&style=social" alt="GitHub followers"></a>
   <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin&logoColor=red" alt="LinkedIn profile"></a>
   <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
   <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=social&logo=instagram" alt="Instagram follow"></a>
