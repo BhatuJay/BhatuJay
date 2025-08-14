@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+Jay+H.+Bhatu+💻;B.Sc.I.T+Graduate+-+BKNM+University;Passionate+Full-Stack+Developer;Open-Source+Enthusiast+🌎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+Jay+Bhatu+💻;B.Sc.I.T+Graduate+-+BKNM+University;Passionate+Full-Stack+Developer;Open-Source+Enthusiast+🌎" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
