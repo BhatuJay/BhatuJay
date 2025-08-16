@@ -5,12 +5,12 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://bhatujay.github.io/BhatuJay/"><img src="https://img.shields.io/badge/BhatuJay-Portfolio-brightgreen?labelColor=white" alt="Bhatu Jay Portfolio"></a>
-  <a href="https://github.com/BhatuJay"><img src="https://img.shields.io/github/followers/BhatuJay?style=social&label=github" alt="GitHub followers"></a>
-  <a href="https://linkedin.com/in/jay-bhatu"><img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="https://twitter.com/AhirBhatuJay"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
-  <a href="https://instagram.com/jay_bhatu_2135"><img src="https://img.shields.io/badge/Instagram--pink?style=social&logo=instagram" alt="Instagram follow"></a>
-  <a href="https://youtube.com/@bhatujay"><img src="https://img.shields.io/badge/YouTube--red?style=social&logo=youtube" alt="YouTube subscribe"></a>
+  <a href="https://bhatujay.github.io/BhatuJay/" target="_blank"><img src="https://img.shields.io/badge/BhatuJay-Portfolio-brightgreen?labelColor=white" alt="Bhatu Jay Portfolio"></a>
+  <a href="https://github.com/BhatuJay" target="_blank"><img src="https://img.shields.io/github/followers/BhatuJay?style=social&label=github" alt="GitHub followers"></a>
+  <a href="https://linkedin.com/in/jay-bhatu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="https://twitter.com/AhirBhatuJay" target="_blank"><img src="https://img.shields.io/twitter/follow/AhirBhatuJay?style=social" alt="Twitter Follow"></a>
+  <a href="https://instagram.com/jay_bhatu_2135" target="_blank"><img src="https://img.shields.io/badge/Instagram--pink?style=social&logo=instagram" alt="Instagram follow"></a>
+  <a href="https://youtube.com/@bhatujay" target="_blank"><img src="https://img.shields.io/badge/YouTube--red?style=social&logo=youtube" alt="YouTube subscribe"></a>
 </p>
 
 ---
